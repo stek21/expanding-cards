@@ -53,7 +53,7 @@ h1 {
 
 .panel.active h3 {
     opacity: 1;
-    transition: opacity .3s ease-in;
+    transition: opacity .3s ease-in 0.4s;
 }
 
 @media (max-width: 480px) {
